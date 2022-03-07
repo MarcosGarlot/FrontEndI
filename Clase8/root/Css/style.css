@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-image: url('https://www.nicepng.com/png/full/414-4144393_en-virtud-de-su-misin-2015-se-busca.png');
+    text-align: center;
+    height: 100px;
+}
+.menu-externo{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+img{
+    height: 100%;
+}
+h1,h2{
+    background-color:#C4C4C4 ;
+    font-family: 'Smooch Sans', sans-serif;
+    color: #005677;
+}
+h1{
+    text-align: center;
+}
+.negritas{
+    font-weight: bold;
+}
+.sin-puntos, .sin-puntos ul{
+    list-style-type: none;
+}
+footer{
+    background-color: #005677;
+    width: 100%;
+    text-align: center;
+    height: 37px;
+}
+a:link , a:visited{
+    text-decoration: none;
+    color: #ffffff;
+}
